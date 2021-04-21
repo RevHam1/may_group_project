@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  width: 900px;
+  height: 500px;
+  margin: auto;
+  background-image: url(https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1adGYT.img?h=651&w=1085&m=6&q=60&o=f&l=f);
+  /* background-image: url("css\NFLraiders.jfif"); */
+  color: silver;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  border: 2px solid red;
+  max-width: 500px;
+}
